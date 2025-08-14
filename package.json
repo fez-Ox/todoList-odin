@@ -1,5 +1,5 @@
 {
-  "name": "webpack-package-configured-template",
+  "name": "todoList-odin",
   "version": "1.0.0",
   "description": "Repository Template with basic Webpack Configuration",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fez-Ox/webpack-package-configured-template.git"
+    "url": "git+https://github.com/fez-Ox/todoList-odin.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fez-Ox/webpack-package-configured-template/issues"
+    "url": "https://github.com/fez-Ox/todoList-odin/issues"
   },
-  "homepage": "https://github.com/fez-Ox/webpack-package-configured-template#readme",
+  "homepage": "https://github.com/fez-Ox/todoList-odin#readme",
   "devDependencies": {
     "css-loader": "^7.1.2",
     "html-loader": "^5.1.0",
